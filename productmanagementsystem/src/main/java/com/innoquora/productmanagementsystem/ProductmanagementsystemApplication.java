@@ -10,6 +10,7 @@ public class ProductmanagementsystemApplication {
 		SpringApplication.run(ProductmanagementsystemApplication.class, args);
 		System.out.println("Hii guys");
 		System.out.println("Hello guys");
+		System.out.println("Goodbye guys");
 	}
 
 }
