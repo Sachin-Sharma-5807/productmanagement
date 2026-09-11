@@ -10,6 +10,9 @@ public class ProductmanagementsystemApplication {
 		SpringApplication.run(ProductmanagementsystemApplication.class, args);
 		System.out.println("Hii guys");
 		System.out.println("Hello this is my first application");
+		System.out.println("hfdjhfdjshfjdsfhds");
+		System.out.println("fsdkfjdskfhjdskfhdffdsfdsf");
+		System.out.println("this is last line");
 	}
 
 }
